@@ -1,3 +1,15 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;
