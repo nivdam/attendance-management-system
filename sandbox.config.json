@@ -2,5 +2,5 @@
   "infiniteLoopProtection": true,
   "hardReloadOnChange": true,
   "view": "browser",
-  "template": "angular-cli"
+  "template": "create-react-app"
 }
