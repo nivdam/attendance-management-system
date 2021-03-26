@@ -1,0 +1,14 @@
+{
+  "editor.wordWrap": "on",
+  "editor.fontSize": 11.5,
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascript": "javascriptreact"
+  },
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBorder": "#0081D2",
+    "activityBar.activeBackground": "#294A5B"
+  },
+}
