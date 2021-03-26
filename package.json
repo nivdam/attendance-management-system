@@ -1,7 +1,7 @@
 {
   "name": "attendance-management-system",
   "version": "1.0.0",
-  "description": "Demo react attendance management system",
+  "description": "React js - demo attendance management system ",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
